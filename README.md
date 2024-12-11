@@ -17,5 +17,5 @@
 - **프론트엔드**: React
 - **백엔드**: Node.js, Express
 - **데이터베이스**: MariaDB
-- **API**: Google Maps API, Naver API, Kakao API
-- **딥러닝 프레임워크**: TensorFlow, PyTorch
+- **API**: Google API, Naver API, Kakao API
+- **딥러닝 프레임워크**: TensorFlow
